@@ -2,6 +2,9 @@
 
 A React-based web application that helps you generate beautiful color palettes with different variations. Whether you're a designer, developer, or just someone who loves colors, this tool makes it easy to create and explore color combinations.
 
+## Demo Link:
+https://color-palette-generator-42ta.onrender.com
+
 ## Features
 
 ### Color Generation Modes
